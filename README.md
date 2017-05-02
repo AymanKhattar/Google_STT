@@ -14,7 +14,7 @@ Running local STT Sample
 
 make sure you have python 2.7 on your machine 
 
-
+    $ cd STT/
     $ python stt_v1.py 
 
 this script takes short .flac file displaying a spoken query, eg : "play the Hammerhead from Birdy Nam Nam"
