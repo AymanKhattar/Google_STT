@@ -1,6 +1,6 @@
 # Snips Music Api Test
 
-There is a node.js testing app that is dedicated to input text from google STT into the Snips NLU API and to test it's output. 
+There is a node.js testing app that is dedicated to input text (alternatives list) from google STT into the Snips NLU API and to test its output. 
 the current version is out of service do to reasons comming from the Snips API 
 
 
