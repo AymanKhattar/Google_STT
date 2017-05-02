@@ -1,0 +1,16 @@
+{
+  "name": "snips-test-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "js-yaml": "^3.8.2",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+- query: play the Hammerhead from birdie num num 
+  goal: [ { slot_name: 'album', value: White }, { slot_name: 'artist', value: The Beatles } ]- query: play the Hammerhead from Birdy num-num 
+  goal: [ { slot_name: 'album', value: White }, { slot_name: 'artist', value: The Beatles } ]- query: play the Hammerhead from Birdy Nam Nam 
+  goal: [ { slot_name: 'album', value: White }, { slot_name: 'artist', value: The Beatles } ]- query: play the Hammerhead from nerdy num num 
+  goal: [ { slot_name: 'album', value: White }, { slot_name: 'artist', value: The Beatles } ]- query: play the Hammerhead from brooten MN 
+  goal: [ { slot_name: 'album', value: White }, { slot_name: 'artist', value: The Beatles } ]- query: play the Hammerhead from routine of them 
+  goal: [ { slot_name: 'album', value: White }, { slot_name: 'artist', value: The Beatles } ]- query: play the Hammerhead from 13 of them 
+  goal: [ { slot_name: 'album', value: White }, { slot_name: 'artist', value: The Beatles } ]- query: play the hammerheads from nerdy num num 
+  goal: [ { slot_name: 'album', value: White }, { slot_name: 'artist', value: The Beatles } ]- query: play the hammerheads from brooten MN 
+  goal: [ { slot_name: 'album', value: White }, { slot_name: 'artist', value: The Beatles } ]- query: play the hammer head from nerdy num num 
+  goal: [ { slot_name: 'album', value: White }, { slot_name: 'artist', value: The Beatles } ]

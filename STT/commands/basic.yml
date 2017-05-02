@@ -1,0 +1,33 @@
+- query:  I want to listen to 2pac
+  goal: {  intent: PlayMusic , slots: { trackAlbumArtist: {value: "2pac"} } } 
+
+- query:  give me some rock 
+  goal: {  intent: PlayMusic , slots: { genre: {value: "rock"} } } 
+
+
+- query:  i'm feeling sad 
+  goal: {  intent: PlayMusic , slots: { mood: {value: "sad"} } } 
+
+
+
+- query:  give me some lovely track
+  goal: {  intent: PlayMusic , slots: { playlistName: {value: "Daily Mix 1"} } } 
+
+- query:  give me my morning playlist
+  goal: {  intent: PlayMusic , slots: { playlistName: {value: "Daily Mix 1"} } } 
+
+
+- query:  volume up
+  goal: {  intent: ControlVolume , slots: { action: {value: "up"} } } 
+
+
+- query:  put back the previous song you played
+  goal: {  intent: NavigateTracks , slots: { action: {value: "previous"} } } 
+
+
+- query:  play tracks at random
+  goal: {  intent: NavigateTracks , slots: { action:  [ 'play', 'random' ]
+ } } 
+
+
+

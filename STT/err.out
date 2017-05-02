@@ -1,0 +1,14 @@
+
+
+✘ Test failed : 'give me the White Album from the Beatles' [39m
+   'give me the White Album from the Beatles' : NO RESULT
+   EXPECTED => [
+    {
+        "slot_name": "album",
+        "value": "White"
+    },
+    {
+        "slot_name": "artist",
+        "value": "The Beatles"
+    }
+]
